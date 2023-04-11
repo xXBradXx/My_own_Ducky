@@ -8,7 +8,7 @@ PRIORITY 0
 The end goal of this project is to have a lot of diffrent GET's that a ducky can go to that you can quikly change witch one the ducky goes to.
 
 PRIORITY 1
-Rick roll
+Rick roll,
 you got beaned
 
 PRIORITY 2
